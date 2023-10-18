@@ -35,9 +35,5 @@ Here are some ideas to get you started:
 
 ### ☎️ Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/hongyi-zhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshyaag" height="50" width="70" /></a>
-<a href="https://instagram.com/ian.zhan.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshyaag" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/hongyi-zhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshyaag" height="50" width="70" />
 </p>
-
-
-### Thank you for visiting my profile 😄
