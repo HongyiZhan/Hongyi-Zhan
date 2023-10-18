@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - 📊 I’m currently studying [**Master of Management in Analytics @McGill**](https://www.mcgill.ca/desautels/programs/mma)
 - 👨‍💻 All of my projects are available at [HongyiZhan.com](https://HongyiZhan.com)
 - 📫 How to reach me: hongyi.zhan@mail.mcgill.ca
-- 🙋 Pronouns: he/him/his
 - ⚡ Fun fact: I enjoy playing Counter-Strike 🎮 and playing soccer ⚽️
 
 ### 📖 Programming Languages & Library
